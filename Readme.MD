@@ -1,7 +1,7 @@
 # Azure-Burst-Check
 
 Will it burst?
-
+ 
 ## Get-AzureRmBurstApplicability.PS1
 
 Script to check if your VM is applicable to a burstable VM size. Good for ensuring your VM is idle enough, for enough time that it could run as a burstable machine.
